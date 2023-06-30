@@ -1,2 +1,2 @@
-# UltrawidePatches
-A repository of ultrawide patches that make use of the excellent SUWSF patcher.
+# Ultrawide Patches for use with SUWSF
+TODO: Write readme.
