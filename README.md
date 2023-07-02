@@ -5,7 +5,7 @@ This is a respository of ultrawide patches for use with [SUWSF](https://github.c
 ## Installation and Configuration
 
 - Choose the desired game and download the zip file inside.
-- Extract the zip file in to the game folder.
+- Extract the contents of the zip file in to the game folder.
 - Check `SUWSF.ini` for configuration.
 
 For regular SUWSF configuration see the [`configuration`](https://github.com/PhantomGamers/SUWSF#configuration) section on the SUWSF repo.
