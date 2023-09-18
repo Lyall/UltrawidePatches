@@ -1,0 +1,1 @@
+Tested on the Microsoft Store version. (18/09/23)
