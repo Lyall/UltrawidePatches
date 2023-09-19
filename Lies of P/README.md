@@ -2,7 +2,7 @@
 Patch for pillarboxing/letterboxing in cutscenes.
 
 ## Installation
-1. Click on the game zip file.
+1. Click on the game zip (GAME_SUWSF.zip) file.
 
 | 2. Click the download button. |
 |:-------------------------------------:|
