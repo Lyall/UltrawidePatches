@@ -1,6 +1,9 @@
 # Forza Motorsport (2023)
 Patch for pillarboxing/letterboxing outside of gameplay.
 
+## Warning
+1. This may be unsafe to use online. I recommend you disable it if playing multiplayer races.
+
 ## Installation
 1. Click on the game zip (GAME_SUWSF.zip) file.
 
