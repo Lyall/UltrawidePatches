@@ -1,9 +1,6 @@
 # Like a Dragon Gaiden: The Man Who Erased His Name
 Patch for pillarboxing/letterboxing in cutscenes.
 
-## Notice
-### Does not work on the Steam version yet.
-
 ## Installation
 1. Click on the game zip (GAME_SUWSF.zip) file.
 
@@ -17,3 +14,4 @@ Patch for pillarboxing/letterboxing in cutscenes.
 
 ## Notes
 Tested on the Microsoft Store version. (08/11/23)
+Tested on the Steam version thanks to @work on the WSGF Discord. (08/11/23)
