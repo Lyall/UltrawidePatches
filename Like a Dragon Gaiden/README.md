@@ -10,6 +10,7 @@ Patch for pillarboxing/letterboxing in cutscenes.
 3. Extract contents of zip to game folder.
 
 ## Screenshots
+![ezgif-3-27f162d55d](https://github.com/Lyall/UltrawidePatches/assets/695941/71192258-bb8d-4594-bb11-2feaf795c967)
 
 ## Notes
 Tested on the Microsoft Store version. (08/11/23)
