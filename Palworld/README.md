@@ -14,4 +14,4 @@ Patch for pillarboxing/letterboxing in cutscenes and vert- FOV.
 ![ezgif-2-60ef5a38f0](https://github.com/Lyall/UltrawidePatches/assets/695941/71afb902-7664-4fb1-b0d5-2aa15ea7831f)
 
 ## Notes
-Tested on the Microsoft Store version. (19/01/24)
+Tested on the Microsoft Store and Steam version. (19/01/24)
