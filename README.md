@@ -1,5 +1,6 @@
 # Ultrawide Patches (For Use With SUWSF)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)</br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)
+
 This is a respository of ultrawide patches for use with [SUWSF](https://github.com/PhantomGamers/SUWSF). Inside each game folder you will find `SUWSF.ini` with the patch source and a complete zip that includes the correct folder structure along with both SUWSF and UltimateASILoader.
 
 ## Installation and Configuration
