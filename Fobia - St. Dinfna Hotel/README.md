@@ -1,5 +1,5 @@
-# Alone in the Dark (2024)
-Patch for pillarboxing/letterboxing in cutscenes.
+# Fobia - St. Dinfna Hotel
+Patch for pillarboxing/letterboxing in use-item cutscenes.
 
 ## Installation
 1. Click on the game zip (GAME_SUWSF.zip) file.
@@ -10,4 +10,5 @@ Patch for pillarboxing/letterboxing in cutscenes.
 3. Extract contents of zip to game folder.
 
 ## Screenshots
-![ezgif-6-b932d71778](https://github.com/Lyall/UltrawidePatches/assets/695941/984b8552-b233-4de1-b5de-64b240a99c4e)
+![ezgif com-optimize](https://github.com/p1xel8ted/UltrawidePatches/assets/10510767/caddd2f7-1a97-489f-9fdd-41b7c850ab68)
+
