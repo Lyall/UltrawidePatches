@@ -1,5 +1,5 @@
 # Ready or Not
-Patch for vert- FOV when using an ultrawide display.
+Patch for vert- FOV when using an ultrawide display. Also includes patch to skip startup videos.
 
 ## Installation
 1. Click on the game zip (GAME_SUWSF.zip) file.
