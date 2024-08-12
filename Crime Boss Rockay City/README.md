@@ -16,4 +16,4 @@
 | Gameplay |
 
 ## Notes
-Tested on the Steam version. (09/08/24)
+Tested on the Steam version. (23/07/24)
