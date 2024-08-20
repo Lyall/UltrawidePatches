@@ -5,7 +5,7 @@
 - Also includes a patch to disable forced sharpening. (Check `SUWSF.ini` to enable`)
 
 ## Installation
-- Download the [release zip](https://github.com/Lyall/UltrawidePatches/raw/main/).
+- Download the [release zip](https://github.com/Lyall/UltrawidePatches/raw/main/Black%20Myth%20Wukong/BlackMythWukong_SUWSF.zip).
 - Extract the contents of the zip in to the game folder.
 
 ## Configuration
@@ -13,9 +13,9 @@
 
 ## Screenshots
 
-|  |
+| ![ezgif-4-d26e19afde](https://github.com/user-attachments/assets/b4a629ca-4a58-454e-8bc5-38bd14b6584a)|
 |:--:|
 | Gameplay |
 
 ## Notes
-Tested on the Epic Games Store version. (12/08/24)
+Tested on the Steam version. (20/08/24)
