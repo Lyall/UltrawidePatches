@@ -5,7 +5,7 @@
 - Fixes vert- FOV in cutscenes.
 
 ## Installation
-- Download the [release zip]().
+- Download the [release zip](https://github.com/Lyall/UltrawidePatches/raw/main/LOLLIPOP%20CHAINSAW%20RePOP/LollipopChainsawRePOP_SUWSF.zip).
 - Extract the contents of the zip in to the game folder.
 
 ## Configuration
@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-|  |
+| ![ezgif-4-bd80f585a5](https://github.com/user-attachments/assets/d5654d59-94f7-4446-9638-1f8e3969f141) |
 |:--:|
 | Gameplay |
 
