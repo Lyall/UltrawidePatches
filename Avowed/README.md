@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-|  |
+| ![ezgif-4e3289f6dc6864](https://github.com/user-attachments/assets/0a2821c7-2a6e-418b-b79b-df059aa90dcc) |
 |:--:|
 | Cutscene |
 
