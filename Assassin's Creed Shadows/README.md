@@ -1,4 +1,4 @@
-# Avowed
+# Assassin's Creed Shadows
 [![Patreon-Button](https://github.com/Lyall/UltrawidePatches/assets/695941/d2ed0044-f09d-4f06-8500-4b0687a799a9)](https://www.patreon.com/Wintermance) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)<br />
 
 - Removes pillarboxing in cutscenes.
