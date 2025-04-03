@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-|  |
+| ![ezgif-7bc58187476248](https://github.com/user-attachments/assets/16426e92-c3e4-48c4-a0df-502f9241d84e) |
 |:--:|
 | Cutscene |
 
