@@ -1,3 +1,7 @@
+## ⚠️ This repository has been migrated
+Active development has moved to [Codeberg](https://codeberg.org/Lyall/UltrawidePatches).  
+This repo is archived and will no longer receive updates.
+
 # Ultrawide Patches (For Use With SUWSF)
 [![Patreon-Button](https://github.com/Lyall/UltrawidePatches/assets/695941/d2ed0044-f09d-4f06-8500-4b0687a799a9)](https://www.patreon.com/Wintermance) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)<br />
 
